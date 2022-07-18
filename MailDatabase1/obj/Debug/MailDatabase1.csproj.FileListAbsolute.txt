@@ -1,0 +1,21 @@
+C:\204\Koltsov Practica\MailDatabase1\MailDatabase1\bin\Debug\MailDatabase.mdb
+C:\204\Koltsov Practica\MailDatabase1\MailDatabase1\bin\Debug\MailDatabase1.exe.config
+C:\204\Koltsov Practica\MailDatabase1\MailDatabase1\bin\Debug\MailDatabase1.exe
+C:\204\Koltsov Practica\MailDatabase1\MailDatabase1\bin\Debug\MailDatabase1.pdb
+C:\204\Koltsov Practica\MailDatabase1\MailDatabase1\obj\Debug\MailDatabase1.Form1.resources
+C:\204\Koltsov Practica\MailDatabase1\MailDatabase1\obj\Debug\MailDatabase1.Properties.Resources.resources
+C:\204\Koltsov Practica\MailDatabase1\MailDatabase1\obj\Debug\MailDatabase1.csproj.GenerateResource.cache
+C:\204\Koltsov Practica\MailDatabase1\MailDatabase1\obj\Debug\MailDatabase1.csproj.CoreCompileInputs.cache
+C:\204\Koltsov Practica\MailDatabase1\MailDatabase1\obj\Debug\MailDatabase1.exe
+C:\204\Koltsov Practica\MailDatabase1\MailDatabase1\obj\Debug\MailDatabase1.pdb
+D:\Учебная практика\Разработка ПМ\MailDatabase1\MailDatabase1\bin\Debug\MailDatabase.mdb
+D:\Учебная практика\Разработка ПМ\MailDatabase1\MailDatabase1\bin\Debug\MailDatabase1.exe.config
+D:\Учебная практика\Разработка ПМ\MailDatabase1\MailDatabase1\bin\Debug\MailDatabase1.exe
+D:\Учебная практика\Разработка ПМ\MailDatabase1\MailDatabase1\bin\Debug\MailDatabase1.pdb
+D:\Учебная практика\Разработка ПМ\MailDatabase1\MailDatabase1\obj\Debug\MailDatabase1.csproj.AssemblyReference.cache
+D:\Учебная практика\Разработка ПМ\MailDatabase1\MailDatabase1\obj\Debug\MailDatabase1.Form1.resources
+D:\Учебная практика\Разработка ПМ\MailDatabase1\MailDatabase1\obj\Debug\MailDatabase1.Properties.Resources.resources
+D:\Учебная практика\Разработка ПМ\MailDatabase1\MailDatabase1\obj\Debug\MailDatabase1.csproj.GenerateResource.cache
+D:\Учебная практика\Разработка ПМ\MailDatabase1\MailDatabase1\obj\Debug\MailDatabase1.csproj.CoreCompileInputs.cache
+D:\Учебная практика\Разработка ПМ\MailDatabase1\MailDatabase1\obj\Debug\MailDatabase1.exe
+D:\Учебная практика\Разработка ПМ\MailDatabase1\MailDatabase1\obj\Debug\MailDatabase1.pdb
